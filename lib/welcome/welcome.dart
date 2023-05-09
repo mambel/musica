@@ -52,7 +52,7 @@ class _WelcomePageState extends State<WelcomePage> with SingleTickerProviderStat
           items: const <BottomNavigationBarItem>[
             BottomNavigationBarItem(
               icon: Icon(Icons.home),
-              label: 'HOME'
+              label: 'Inicio'
             ),
             BottomNavigationBarItem(
               icon: Icon(Icons.speaker),
